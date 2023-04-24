@@ -1,0 +1,16 @@
+1. Open Chrome extensions, add MetaMask
+2. Create MetaMask account
+3. Change network from Ethereum Main net to GoerliTest
+4. Open GoerliETH faucet from google enter your Account
+   Address there and Get some Free ether for Testing
+5. Now Go to Remix Ide Change the Environment to
+   Injected Provider – MetaMask
+6. Your Goerli MetaMask will be now used for transactions
+7. Now Deploy the contract and it will ask for the
+   transaction fees
+8. Confirm if want to Spend your ETH or else reject if you
+want to save it for your marriage
+9. For Setting the Numbers you need to pay the fees
+10. Now run all the operations without paying fees
+11. Now Switch to Other Account in MetaMask
+12. Same Procedure Follow in this also
